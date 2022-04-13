@@ -4,6 +4,7 @@ const Offers = () => {
     return (
         <div>
             NEW Offers!!!!!!!!!
+            only for you!
         </div>
     );
 };
